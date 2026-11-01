@@ -1,0 +1,6 @@
+node_modules
+dist
+.vite-react-ssg-temp
+source-images
+*.log
+.DS_Store
